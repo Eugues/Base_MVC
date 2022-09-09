@@ -1,0 +1,11 @@
+
+
+
+/* Caminho para servidor nativo PHP */
+D:\Meus Projetos GitHub\Base_MVC\miniframework\public
+
+/* Comando para abrir servidor local */
+
+php -S localhost:"porta desejada 'Ex: 8080' ";
+
+/* Abrir navegador com url localhost:8080 */
